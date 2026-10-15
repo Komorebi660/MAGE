@@ -1,0 +1,19 @@
+# Editor settings
+.vscode/
+
+# Python caches and build output
+__pycache__/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+
+# Benchmark data and logs
+benchmark/**/data/
+benchmark/**/logs/
+*.log
+
+# WebShop indexes, converted product data and server logs
+benchmark/webshop/WebShopEnv/search_engine/indexes*/
+benchmark/webshop/WebShopEnv/search_engine/resources*/
+benchmark/webshop/WebShopEnv/subreward_log/

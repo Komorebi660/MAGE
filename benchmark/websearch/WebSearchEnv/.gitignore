@@ -1,0 +1,15 @@
+.env
+__pycache__/
+.venv
+.vscode
+collection/
+indexes/
+tmp/
+retrieval/
+data/browsecomp_plus_decrypted.jsonl
+data/id_mapping.json
+data/memarenra_browsecomp.jsonl
+data/data.jsonl
+topics-qrels/queries.tsv
+runs/
+evals/
