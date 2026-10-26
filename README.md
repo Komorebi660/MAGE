@@ -120,11 +120,26 @@ mkdir -p data && cd data && wget https://huggingface.co/datasets/ZexueHe/memorya
 
 If you find this work useful, please consider citing our paper:
 ```bibtex
-@article{chen2026beyond,
-  title={Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents},
-  author={Chen, Yaoqi and Lai, Haibin and Feng, Yuru and Han, Chuyu and Zhang, Qianxi and Lu, Baotong and Li, Menghao and Wang, Xinjiang and Wang, Zhirui and Xu, Shusen and others},
-  journal={arXiv preprint arXiv:2606.06090},
-  year={2026}
+@inproceedings{chen-etal-2026-beyond-semantic,
+    title = "Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents",
+    author = "Chen, Yaoqi  and
+      Lai, Haibin  and
+      Feng, Yuru  and
+      Han, Chuyu  and
+      Zhang, Qianxi  and
+      Lu, Baotong  and
+      Li, Menghao  and
+      Wang, Xinjiang  and
+      Jin, Zewen  and
+      Wu, Hao  and
+      Li, Cheng  and
+      Chen, Qi",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    year = "2026",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.828/",
+    pages = "19255--19272",
+    ISBN = "979-8-89176-459-0"
 }
 ```
 
